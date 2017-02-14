@@ -23,6 +23,20 @@ Git 在 Eclipse 的官方插件，是基于 JGit 的实现。
 * Download/国内下载:http://www.eclipse.org/egit/download/
  
 
+## Editer（编辑器）
+
+### Eclipse Markdown Editor
+ 
+Adds Markdown text editing support to Eclipse.Edit `.md` and `.txt` files with syntax highlighting.
+Provides Outline and Preview HTML views.
+
+
+Markdown 编辑器。
+
+* Web site:http://www.winterwell.com/software/markdown-editor.php
+* Update site:http://winterwell.com/software/updatesite
+* Download/国内下载:https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin/releases
+* 中文介绍：https://waylau.com/about-eclipse-markdown-editor-plugin/
 
 ## Code quality（代码质量）
 
