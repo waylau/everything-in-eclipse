@@ -8,7 +8,23 @@ Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my fisrt IDE
 
 Eclipse SDK will be a good start. Laster version of Eclipse : https://www.eclipse.org/downloads/
 
-## Code quality
+## Version control system（版本管理）
+
+### EGit
+
+EGit is an Eclipse Team provider for the Git version control system. Git is a distributed SCM, which means every developer has a full copy of all history of every revision of the code, making queries against the history very fast and versatile.
+
+The EGit project is implementing Eclipse tooling on top of the JGit Java implementation of Git.
+
+Git 在 Eclipse 的官方插件，是基于 JGit 的实现。
+
+* Web site:http://www.eclipse.org/egit/
+* Update site:http://download.eclipse.org/egit/updates
+* Download/国内下载:http://www.eclipse.org/egit/download/
+ 
+
+
+## Code quality（代码质量）
 
 ### Checkstyle
 
@@ -32,8 +48,7 @@ PMD 是一个源代码分析器。 它发现常见的编程缺陷，如未使用
 * 国内下载：https://pan.baidu.com/s/1hsE74Zq
 
 
-## Design
-
+## Design（设计）
 ### PlantUML
 
 Generate UML diagram from textual description.PlantUML is a component that allows to quickly write UML.
