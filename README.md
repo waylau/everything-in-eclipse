@@ -38,6 +38,18 @@ Markdown 编辑器。
 * Download/国内下载:https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin/releases
 * 中文介绍：https://waylau.com/about-eclipse-markdown-editor-plugin/
 
+### GitHub Flavored Markdown Viewer 
+ 
+An Eclipse plugin providing an accurate view of GitHub Flavored Markdown (.md) files
+
+
+对 GitHub 友好 Markdown 编辑器。
+
+* Web site:https://github.com/satyagraha/gfm_viewer
+* Update site:https://raw.github.com/satyagraha/gfm_viewer/master/p2-composite/
+* Download/国内下载: 
+ 
+
 ## Code quality（代码质量）
 
 ### Checkstyle
