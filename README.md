@@ -1,6 +1,6 @@
 # Everything in Eclipse
 
-Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my fisrt IDE.  Eclipse is more powerful than you think. So I collected the commonly used Eclipse plugins here.
+Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my first IDE.  Eclipse is more powerful than you can think. So I collect the commonly used Eclipse plugins here for you.
 
 ## Eclipse
 
