@@ -22,7 +22,21 @@ Git 在 Eclipse 的官方插件，是基于 JGit 的实现。
 * Update site:http://download.eclipse.org/egit/updates
 * Download/国内下载:http://www.eclipse.org/egit/download/
  
+## Build tool（构建工具）
 
+### Eclipse Buildship: Eclipse Plug-ins for Gradle 
+
+Eclipse Buildship is a collection of Eclipse plug-ins that provide support for building software using Gradle.
+
+Buildship aims to provide a deep integration of Gradle into Eclipse. Buildship also aims to make the Eclipse IDE more powerful by allowing the user to do more from within the IDE.
+
+Gradle 在 Eclipse 的官方插件。
+
+* Web site:http://projects.eclipse.org/projects/tools.buildship
+* Update site:http://download.eclipse.org/buildship/updates/e46/releases/2.x
+
+ 
+ 
 ## Editer（编辑器）
 
 ### Eclipse Markdown Editor
