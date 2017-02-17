@@ -6,7 +6,7 @@ Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my first IDE
 
 ### Eclipse SDK 
 
-Eclipse SDK will be a good start. Laster version of Eclipse : https://www.eclipse.org/downloads/
+Eclipse SDK will be a good start. The latest version of Eclipse : https://www.eclipse.org/downloads/
 
 ## Version control system（版本管理）
 
