@@ -2,6 +2,16 @@
 
 Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my first IDE.  Eclipse is more powerful than you can think. So I collect the commonly used Eclipse plugins here for you.
 
+### Contact 联系作者:
+
+* Blog: [waylau.com](http://waylau.com)
+* Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* Weibo: [waylau521](http://weibo.com/waylau521)
+* Twitter: [waylau521](https://twitter.com/waylau521)
+* Github : [waylau](https://github.com/waylau)
+
+-----------
+
 ## Eclipse
 
 ### Eclipse SDK 
