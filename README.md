@@ -71,7 +71,8 @@ An Eclipse plugin providing an accurate view of GitHub Flavored Markdown (.md) f
 
 * Web site:https://github.com/satyagraha/gfm_viewer
 * Update site:https://raw.github.com/satyagraha/gfm_viewer/master/p2-composite/
-* Download/国内下载: https://pan.baidu.com/s/1cvhiZO
+* 中文介绍：https://waylau.com/not-generate-html-file-with-gfm/
+* 国内下载: https://pan.baidu.com/s/1cvhiZO
  
 
 ## Code quality（代码质量）
