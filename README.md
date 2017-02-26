@@ -51,10 +51,13 @@ Gradle 在 Eclipse 的官方插件。
 
 ### Eclipse Web Developer Tools
  
-Includes the HTML, CSS, and JSON Editors, and JavaScript Developer Tools from the Eclipse Web Tools Platform project.
+Includes the HTML, CSS, and JSON Editors, and JavaScript Developer Tools from the Eclipse Web Tools Platform project, aimed at supporting client-side web development and node.js applications. Also installs the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project.
+
+If you need to edit HTML, CSS, and JavaScript files, whether you're developing web applications or not, whatever the back-end, this one's for you.
 
 
-Web 开发工具，支持 HTML、CSS、JSON、JavaScript 等的编辑与开发。
+
+Eclipse 官方出品的 Web 开发工具，支持 HTML、CSS、JSON、JavaScript、XML、XML Schema以及DTD 等的编辑与开发。
 
 * Web site:http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0
 * Update site: 
