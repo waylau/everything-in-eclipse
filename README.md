@@ -73,7 +73,7 @@ The Thymeleaf plugin for Eclipse IDE adds content assist features that make work
 Thymeleaf 出品的用于开发 Thymeleaf 页面时的工具。
 
 * Web site:https://github.com/thymeleaf/thymeleaf-extras-eclipse-plugin
-* Update site: 
+* Update site: http://www.thymeleaf.org/eclipse-plugin-update-site/
 * Download/国内下载:https://github.com/thymeleaf/thymeleaf-extras-eclipse-plugin/releases
 
 ### Eclipse Markdown Editor
