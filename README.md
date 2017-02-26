@@ -62,6 +62,19 @@ Eclipse 官方出品的 Web 开发工具，支持 HTML、CSS、JSON、JavaScript
 * Web site:http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0
 * Update site: 
  
+### Thymeleaf Eclipse Plugin
+ 
+The Thymeleaf plugin for Eclipse IDE adds content assist features that make working in Thymeleaf templates nicer and much more comfortable.
+
+* Code completion of Thymeleaf attribute processors.
+* Detailed explanations for each attribute.
+* Content assist inside expressions: expression utility objects.
+
+Thymeleaf 出品的用于开发 Thymeleaf 页面时的工具。
+
+* Web site:https://github.com/thymeleaf/thymeleaf-extras-eclipse-plugin
+* Update site: 
+* Download/国内下载:https://github.com/thymeleaf/thymeleaf-extras-eclipse-plugin/releases
 
 ### Eclipse Markdown Editor
  
