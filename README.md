@@ -49,6 +49,17 @@ Gradle 在 Eclipse 的官方插件。
  
 ## Editer（编辑器）
 
+### Eclipse Web Developer Tools
+ 
+Includes the HTML, CSS, and JSON Editors, and JavaScript Developer Tools from the Eclipse Web Tools Platform project.
+
+
+Web 开发工具，支持 HTML、CSS、JSON、JavaScript 等的编辑与开发。
+
+* Web site:http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0
+* Update site: 
+ 
+
 ### Eclipse Markdown Editor
  
 Adds Markdown text editing support to Eclipse.Edit `.md` and `.txt` files with syntax highlighting.
