@@ -36,16 +36,26 @@ Git 在 Eclipse 的官方插件，是基于 JGit 的实现。
 
 ### Eclipse Buildship: Eclipse Plug-ins for Gradle 
 
-Eclipse Buildship is a collection of Eclipse plug-ins that provide support for building software using Gradle.
-
-Buildship aims to provide a deep integration of Gradle into Eclipse. Buildship also aims to make the Eclipse IDE more powerful by allowing the user to do more from within the IDE.
+M2Eclipse provides tight integration for Apache Maven into the Eclipse IDE.
 
 Gradle 在 Eclipse 的官方插件。
 
 * Web site:http://projects.eclipse.org/projects/tools.buildship
 * Update site:http://download.eclipse.org/buildship/updates/e46/releases/2.x
 
- 
+
+### M2Eclipse 
+
+Eclipse Buildship is a collection of Eclipse plug-ins that provide support for building software using Gradle.
+
+Buildship aims to provide a deep integration of Gradle into Eclipse. Buildship also aims to make the Eclipse IDE more powerful by allowing the user to do more from within the IDE.
+
+Maven 在 Eclipse 的官方插件。
+
+
+* Web site:<http://www.eclipse.org/m2e/>
+* Update site:<http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933/>
+
  
 ## Editer（编辑器）
 
