@@ -42,7 +42,7 @@ Gradle 在 Eclipse 的官方插件。
 
 * Web site:http://projects.eclipse.org/projects/tools.buildship
 * Update site:http://download.eclipse.org/buildship/updates/e46/releases/2.x
-
+* Download/国内下载:https://github.com/eclipse/buildship/releases
 
 ### M2Eclipse 
 
