@@ -56,6 +56,19 @@ Maven 在 Eclipse 的官方插件。
 * Web site:<http://www.eclipse.org/m2e/>
 * Update site:<http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933/>
 
+
+## Compiler（编译器）
+
+### Eclipse Class Decompiler 
+
+Eclipse Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon seamlessly with Eclipse and allows Java developers to debug class files without source code directly .
+
+Gradle 在 Eclipse 的官方插件。
+
+* Web site: http://www.cpupk.com/decompiler
+* Update site: http://raw.githubusercontent.com/cnfree/eclipse/master/decompiler/update/
+* Download/国内下载: https://github.com/cnfree/Eclipse-Class-Decompiler/releases
+
  
 ## Editer（编辑器）
 
