@@ -150,6 +150,7 @@ PMD 是一个源代码分析器。 它发现常见的编程缺陷，如未使用
 
 
 ## Design（设计）
+
 ### PlantUML
 
 Generate UML diagram from textual description.PlantUML is a component that allows to quickly write UML.
@@ -161,3 +162,19 @@ PlantUML 是一个开源项目，通过简单并带指引性语言定义来定�
 * Update site:http://plantuml.sourceforge.net/updatesitejuno/
 * 中文介绍：https://waylau.com/use-plantuml-in-eclipse/
 * 国内下载：https://pan.baidu.com/s/1gfdvTV9
+
+## Analyzer（分析）
+
+### Eclipse Memory Analyzer (MAT)
+
+
+The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.
+
+Eclipse Memory Analyzer (MAT)是一个快速且功能丰富的Java堆分析器，可帮助您发现内存泄漏并减少内存消耗。
+
+使用内存分析器分析具有数亿个对象的生产堆转储，快速计算对象的保留大小，查看谁在阻止垃圾收集器收集对象，运行报告以自动提取泄漏嫌疑。
+
+* Web site: https://www.eclipse.org/mat
+* Update site:http://download.eclipse.org/mat/1.10.0/update-site/
+* 中文介绍：https://waylau.com/installation-and-use-of-eclipse-memory-analyzer/
+* 国内下载：https://www.eclipse.org/mat/downloads.php
