@@ -4,7 +4,7 @@ Everything is in Eclipse. As a Java Devloper, I consider Eclipse as my first IDE
 
 ### Contact 联系作者:
 
-* Blog: [waylau.com](http://waylau.com)
+* Blog: [waylau.com](https://waylau.com)
 * Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
 * Weibo: [waylau521](http://weibo.com/waylau521)
 * Twitter: [waylau521](https://twitter.com/waylau521)
